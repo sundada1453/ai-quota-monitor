@@ -1,0 +1,18 @@
+{
+  "grok": {
+    "weekly_quota_requests": 150,
+    "weekly_quota_usd": 15.0,
+    "quota_mode": "requests"
+  },
+  "antigravity": {
+    "five_hour_quota_requests": 50,
+    "quota_window_hours": 5
+  },
+  "ui": {
+    "refresh_seconds": 10,
+    "theme": "dark",
+    "always_on_top": true,
+    "initial_x": 1050,
+    "initial_y": 45
+  }
+}
